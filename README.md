@@ -42,6 +42,7 @@
 
 ### Exchanges
 - [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
+- [graviex.net](https://graviex.net/markets/akabtc)
 
 ### Market Information
 - [COINLIB](https://coinlib.io/coin/AKA/Akroma)
